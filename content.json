@@ -1,0 +1,21 @@
+{
+    "content": [
+      {
+        "title":"Privacy Policy",
+        "slug": "privacy-policy",
+        "description": "Description of privacy policy"
+      },
+      {
+        "title":"Terms Of Use",
+        "slug":"terms-condition",
+        "description": "Description of term and condition"
+      },
+      {
+        "title":"About Us",
+        "slug":"about-us",
+        "description": "About Project"
+      }
+      
+    ]
+    
+}
